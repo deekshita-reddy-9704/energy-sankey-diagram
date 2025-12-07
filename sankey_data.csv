@@ -1,0 +1,20 @@
+source,target,flow
+Coal,Manufacturing,792
+Wind,Manufacturing,321
+Natural Gas,Equipment,969
+Solar,Lighting,450
+Coal,Equipment,580
+Wind,Lighting,300
+Natural Gas,Manufacturing,620
+Hydropower,Equipment,410
+Solar,Manufacturing,500
+Coal,Lighting,200
+Wind,Equipment,150
+Natural Gas,Lighting,400
+Hydropower,Manufacturing,330
+Solar,Equipment,290
+Coal,Transport,180
+Wind,Transport,120
+Natural Gas,Transport,210
+Hydropower,Transport,100
+Solar,Transport,150
